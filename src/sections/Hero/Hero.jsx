@@ -38,7 +38,7 @@ function Hero() {
           <br />
           GAVDE
         </h1>
-        <h2>Frontend Developer</h2>
+        <h2>Full-stack Developer</h2>
         <span>
           <a href="https://github.com/salonigavde18" target="_blank">
             <img src={githubIcon} alt="Github icon" />
